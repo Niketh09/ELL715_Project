@@ -1,4 +1,4 @@
-# ELL715_Project
+<h1>Image Generation</h1>
 The code of the DCGAN model for Cifar-10 and MNIST dataset is written in the
 files.
 
